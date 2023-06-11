@@ -1,0 +1,18 @@
+HELLO, BEAUTIFUL, WORLD
+
+start
+  statement1
+  start
+    statement2
+  end
+  start
+  start
+  start
+  statement3
+  HELLO, MAGNIFICENT, WORLD
+  end
+  end
+  end
+end
+
+HELLO, GORGEOUS, WORLD
